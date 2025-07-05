@@ -9,6 +9,16 @@ export default function Hero() {
       </div>
       
       <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
+        <div className="mb-8 flex justify-center">
+          <Image
+            src="/logo.jpg"
+            alt="Manee Coffee Roasters Logo"
+            width={320}
+            height={320}
+            className="w-32 h-32 sm:w-40 sm:h-40 md:w-52 md:h-52 lg:w-64 lg:h-64 xl:w-80 xl:h-80 rounded-full border-4 border-white shadow-2xl object-cover"
+            priority
+          />
+        </div>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           Sustainably Sourced
           <br />
