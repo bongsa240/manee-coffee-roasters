@@ -1,0 +1,89 @@
+{
+  "Navigation": {
+    "home": "[TO TRANSLATE] Home",
+    "about": "[TO TRANSLATE] About",
+    "products": "[TO TRANSLATE] Products", 
+    "laos": "[TO TRANSLATE] Laos",
+    "contact": "[TO TRANSLATE] Contact",
+    "brand": "[TO TRANSLATE] Manee Coffee Roasters"
+  },
+  "Hero": {
+    "title": "[TO TRANSLATE] Sustainably Sourced",
+    "titleHighlight": "[TO TRANSLATE] Coffee from Laos",
+    "description": "[TO TRANSLATE] Discover the rich, unique flavors of premium coffee beans grown in the pristine highlands of Laos, roasted with care and sourced with purpose.",
+    "exploreButton": "[TO TRANSLATE] Explore Our Coffee",
+    "learnButton": "[TO TRANSLATE] Learn About Laos"
+  },
+  "About": {
+    "title": "[TO TRANSLATE] Our Mission: Sustainable Coffee, Sustainable Future",
+    "description1": "[TO TRANSLATE] At Manee Coffee Roasters, we believe that exceptional coffee begins with exceptional relationships. We work directly with small-scale farmers in the mountainous regions of Laos, ensuring fair wages and sustainable farming practices that preserve the environment and support local communities.",
+    "description2": "[TO TRANSLATE] Our commitment to sustainability goes beyond sourcing. We use eco-friendly packaging, carbon-neutral shipping, and support reforestation programs in coffee-growing regions. Every cup you enjoy helps build a more sustainable future for coffee farmers and their families.",
+    "ethicalSourcing": "[TO TRANSLATE] Ethical Sourcing",
+    "ethicalDescription": "[TO TRANSLATE] Direct trade relationships with farmers",
+    "environmentalCare": "[TO TRANSLATE] Environmental Care", 
+    "environmentalDescription": "[TO TRANSLATE] Sustainable farming practices",
+    "qualityRoasting": "[TO TRANSLATE] Quality Roasting",
+    "qualityDescription": "[TO TRANSLATE] Small-batch artisan roasting",
+    "ethicallySourced": "[TO TRANSLATE] Ethically Sourced",
+    "sustainableCoffee": "[TO TRANSLATE] Sustainable Coffee",
+    "farmToCup": "[TO TRANSLATE] From farm to cup with care"
+  },
+  "Products": {
+    "title": "[TO TRANSLATE] Our Coffee Collection",
+    "description": "[TO TRANSLATE] Each blend tells a story of the highlands of Laos, carefully roasted to bring out the unique characteristics of our sustainably sourced beans.",
+    "comingSoonTitle": "[TO TRANSLATE] E-commerce Coming Soon",
+    "comingSoonDescription": "[TO TRANSLATE] We're preparing to launch our online store to bring these exceptional coffees directly to your door. Stay tuned for updates!",
+    "joinMailingList": "[TO TRANSLATE] Join Our Mailing List",
+    "comingSoon": "[TO TRANSLATE] Coming Soon",
+    "coffee1": {
+      "name": "[TO TRANSLATE] Bolaven Plateau Dark Roast",
+      "description": "[TO TRANSLATE] A rich, full-bodied dark roast with notes of dark chocolate and smoky undertones. Grown at 1,200m elevation in the fertile volcanic soil of the Bolaven Plateau.",
+      "price": "$24.99",
+      "features": ["[TO TRANSLATE] Dark Roast", "[TO TRANSLATE] Organic", "[TO TRANSLATE] Fair Trade", "[TO TRANSLATE] Single Origin"]
+    },
+    "coffee2": {
+      "name": "[TO TRANSLATE] Highland Medium Roast", 
+      "description": "[TO TRANSLATE] A balanced medium roast with bright acidity and floral notes. Perfectly captures the unique terroir of Laos' northern mountains with hints of citrus and honey.",
+      "price": "$22.99",
+      "features": ["[TO TRANSLATE] Medium Roast", "[TO TRANSLATE] Organic", "[TO TRANSLATE] Floral Notes", "[TO TRANSLATE] Single Origin"]
+    },
+    "coffee3": {
+      "name": "[TO TRANSLATE] Mekong Light Roast",
+      "description": "[TO TRANSLATE] A light roast that highlights the delicate flavors of high-altitude Laotian coffee. Bright and complex with notes of tropical fruit and jasmine.",
+      "price": "$21.99", 
+      "features": ["[TO TRANSLATE] Light Roast", "[TO TRANSLATE] Organic", "[TO TRANSLATE] Fruity Notes", "[TO TRANSLATE] Single Origin"]
+    }
+  },
+  "Laos": {
+    "title": "[TO TRANSLATE] Discover Beautiful Laos",
+    "description": "[TO TRANSLATE] Nestled in the heart of Southeast Asia, Laos is a landlocked country blessed with pristine mountains, rich cultural heritage, and ideal conditions for growing exceptional coffee.",
+    "perfectConditionsTitle": "[TO TRANSLATE] The Perfect Growing Conditions",
+    "highAltitude": "[TO TRANSLATE] High Altitude",
+    "highAltitudeDescription": "[TO TRANSLATE] Coffee grown at 1,000-1,350m elevation in the Bolaven Plateau",
+    "volcanicSoil": "[TO TRANSLATE] Volcanic Soil",
+    "volcanicSoilDescription": "[TO TRANSLATE] Rich, fertile volcanic soil provides essential nutrients",
+    "idealClimate": "[TO TRANSLATE] Ideal Climate", 
+    "idealClimateDescription": "[TO TRANSLATE] Perfect balance of rainfall and sunshine throughout the year",
+    "traditionalMethods": "[TO TRANSLATE] Traditional Methods",
+    "traditionalMethodsDescription": "[TO TRANSLATE] Time-honored cultivation techniques passed down through generations",
+    "culturalHeritage": "[TO TRANSLATE] Rich Cultural Heritage",
+    "culturalDescription": "[TO TRANSLATE] Laos is home to ancient temples, vibrant festivals, and a rich Buddhist culture that has remained largely unchanged for centuries.",
+    "pristineNature": "[TO TRANSLATE] Pristine Nature",
+    "natureDescription": "[TO TRANSLATE] From the magnificent Kuang Si Falls to the mysterious Plain of Jars, Laos offers some of Southeast Asia's most stunning natural landscapes.",
+    "mountainCommunities": "[TO TRANSLATE] Mountain Communities",
+    "communitiesDescription": "[TO TRANSLATE] Small farming communities in the mountains maintain traditional ways of life, carefully tending to their coffee plants with generations of knowledge.",
+    "beautifulLaos": "[TO TRANSLATE] Beautiful Laos",
+    "mountainHighlands": "[TO TRANSLATE] Mountain highlands perfect for coffee"
+  },
+  "Footer": {
+    "description": "[TO TRANSLATE] Bringing you the finest sustainably sourced coffee from the beautiful highlands of Laos. Every cup supports local farming communities and environmental conservation.",
+    "quickLinks": "[TO TRANSLATE] Quick Links",
+    "contactInfo": "[TO TRANSLATE] Contact Info",
+    "email": "hello@maneecoffee.com",
+    "phone": "+856 20 57 081 555",
+    "address": "Ban Saphanthong Tai,\\nSisattanak District\\nVientiane, Laos 01030",
+    "copyright": "[TO TRANSLATE] © 2025 Manee Coffee Roasters. All rights reserved. | Crafted with love in Laos",
+    "sustainability": "[TO TRANSLATE] Sustainability",
+    "blog": "[TO TRANSLATE] Blog"
+  }
+}

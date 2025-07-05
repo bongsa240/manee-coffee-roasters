@@ -1,6 +1,9 @@
 import Image from 'next/image'
+import {useTranslations} from 'next-intl'
 
 export default function Hero() {
+  const t = useTranslations('Hero')
+  
   return (
     <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
@@ -20,20 +23,19 @@ export default function Hero() {
           />
         </div>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Sustainably Sourced
+          {t('title')}
           <br />
-          <span className="text-laos-gold">Coffee from Laos</span>
+          <span className="text-laos-gold">{t('titleHighlight')}</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-2xl mx-auto">
-          Discover the rich, unique flavors of premium coffee beans grown in the pristine highlands of Laos, 
-          roasted with care and sourced with purpose.
+          {t('description')}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button className="bg-coffee-brown hover:bg-coffee-dark text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-300 transform hover:scale-105">
-            Explore Our Coffee
+            {t('exploreButton')}
           </button>
           <button className="border-2 border-white text-white hover:bg-white hover:text-coffee-dark px-8 py-3 rounded-lg font-semibold transition-all duration-300">
-            Learn About Laos
+            {t('learnButton')}
           </button>
         </div>
       </div>
